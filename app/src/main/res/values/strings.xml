@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BucketList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_bucket_list_item_title">Enter two values and press confirm!</string>
+    <string name="confirm_button_content">Confirm</string>
+    <string name="cancel_button_content">Cancel</string>
+    <string name="bucket_list_item_title_placeholder">Eat the hottest pepper in existence</string>
+    <string name="bucket_list_item_description_placeholder">I wonder what it\'ll taste like. Lava, most likely.</string>
+
+</resources>
